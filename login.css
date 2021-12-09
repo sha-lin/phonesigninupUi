@@ -14,7 +14,7 @@ body {
     height: 730px;
     border-radius: 40px;
     margin-top: 50px;
-    background-color: #fefdf9;
+    background-color: #425ae4;
     overflow: hidden;
     box-shadow: 0px 20px 50px 0px rgba(0,0,0,0.2);
 }
@@ -25,7 +25,7 @@ div.bg {
 }
 
 .fa {
-    color: white;
+    color: rgb(10, 10, 10);
 }
 
 .fa-angle-left {
@@ -35,13 +35,13 @@ div.bg {
 span.note {
     font-weight: 600;
     font-size: 2em;
-    color: white;
+    color: rgb(5, 5, 5);
 }
 
 input[type="text"] {
     outline: none;
     border: none;
-    border-bottom: 1px solid lightgray;
+    border-bottom: 1px solid rgb(7, 7, 7);
     background: transparent;
 }
 
@@ -55,7 +55,7 @@ div.sign-in-btn {
 span.big {
     font-weight: 900;
     font-size: 1.2em;
-    color:#42484f;
+    color:#080808;
 }
 
 span.underline {
