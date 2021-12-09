@@ -19,7 +19,7 @@ body {
 }
 
 .fa {
-    color: white;
+    color: rgb(7, 7, 7);
 }
 
 .fa-angle-left {
@@ -29,19 +29,19 @@ body {
 span.note {
     font-weight: 600;
     font-size: 2.5em;
-    color: #fefdf9;
+    color: #0a0a0a;
 }
 
 input[type="text"] {
     outline: none;
     border: none;
     background: transparent;
-    border-bottom: 1px solid rgba(255,255,255,0.3);
-    color: #fefdf9;
+    border-bottom: 1px solid rgba(8, 8, 8, 0.3);
+    color: #050505;
 }
 
 ::placeholder {
-    color: rgb(254, 253, 249,0.6);
+    color: rgba(15, 15, 15, 0.6);
 }
 
 div.sign-in-btn {
@@ -54,12 +54,12 @@ div.sign-in-btn {
 span.big {
     font-weight: 900;
     font-size: 1.2em;
-    color: #fefdf9;
+    color: #070707;
 }
 
 span.underline {
     text-decoration: underline;
     font-weight: 900;
     font-size: 0.8em;
-    color: #fefdf9;
+    color: #070707;
 }
